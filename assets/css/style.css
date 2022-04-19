@@ -1,0 +1,47 @@
+html {
+    acroll-behavior: smooth;
+
+}
+
+body {
+
+    font-family: 'Cabin', sans-serif;
+}
+.nav-position-top{
+    position:absolute;
+    top: 5%;
+
+}
+.img-logo{
+    height: 40px;
+}
+.fondo-nav{
+    background-image: url("assets/img/carousel1.jpg");
+    background-size: 2000px;
+    background-position: center;
+    background-repeat: repeat-x;
+    height: 950px;
+    display: block;
+}
+.bg-cielo{
+    background-color:aqua
+
+}
+
+
+
+.footer__img {
+    height: 100px;
+}
+footer {
+    font-family: "Cabin", sans-serif;
+    text-align: center;
+    background-color: rgb(31, 152, 170);
+    color:white;
+    padding: auto;
+
+}
+i {
+    font-size: 30;
+
+}
